@@ -1,0 +1,8 @@
+C:\Users\51945\source\repos\Lab02PieroApaza\Lab02PieroApaza\bin\Debug\Lab02PieroApaza.exe.config
+C:\Users\51945\source\repos\Lab02PieroApaza\Lab02PieroApaza\bin\Debug\Lab02PieroApaza.exe
+C:\Users\51945\source\repos\Lab02PieroApaza\Lab02PieroApaza\bin\Debug\Lab02PieroApaza.pdb
+C:\Users\51945\source\repos\Lab02PieroApaza\Lab02PieroApaza\obj\Debug\Lab02PieroApaza.csproj.AssemblyReference.cache
+C:\Users\51945\source\repos\Lab02PieroApaza\Lab02PieroApaza\obj\Debug\Lab02PieroApaza.csproj.SuggestedBindingRedirects.cache
+C:\Users\51945\source\repos\Lab02PieroApaza\Lab02PieroApaza\obj\Debug\Lab02PieroApaza.csproj.CoreCompileInputs.cache
+C:\Users\51945\source\repos\Lab02PieroApaza\Lab02PieroApaza\obj\Debug\Lab02PieroApaza.exe
+C:\Users\51945\source\repos\Lab02PieroApaza\Lab02PieroApaza\obj\Debug\Lab02PieroApaza.pdb
